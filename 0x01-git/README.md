@@ -1,1 +1,2 @@
-my second commit, just change i get good grade
+my second commit
+I just change to get good grade
